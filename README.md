@@ -35,7 +35,7 @@
   
 <img alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"  height="80px" />
 <img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"  height="80px"  />
-<img style="padding-right:20px;" alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"   height="70px" />
+<img padding-right:"20px" alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"   height="70px" />
 
 <!-- <img alt="sprint" src="https://www.systembug.me/assets/img/spring.png" height="80px"/>
  <img alt="hibernate" src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg"  height="80px"/>
