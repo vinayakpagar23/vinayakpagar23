@@ -25,9 +25,34 @@
 * ⚡  I like interacting with new people and explore the world.
 * 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+🛠️ Tech Stack and FrameWorks:
+
+
+
+<p align="left">
+  
+<img alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"  height="80px" />
+<img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"  height="80px"  />
+<img alt="Python" src="[https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)"   height="80px"/>
+
+<!-- <img alt="sprint" src="https://www.systembug.me/assets/img/spring.png" height="80px"/>
+ <img alt="hibernate" src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg"  height="80px"/>
+  <img alt="AWS" src="https://www.eurocloudnative.de/app/uploads/2021/01/Amazon_Web_Services_Logo-300x300.png"  height="80px"/> -->
+
+<img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px"/>
+<img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png"  height="80px"/>
+<img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px"/>
+ <img alt="Github" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  height="80px"/>
+ <img alt="Visual Studio Code" src="https://miro.medium.com/max/1400/1*0LS0sRb2kjHtIIWtKAt-iw.png"  height="80px"/>
+ <img alt="postman" src="https://bospar.com/wp-content/uploads/2021/08/pm-logo-vert.jpg"  height="80px"/>
+  <img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.png"  height="80px"/>
+
+
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
 
 <!---
