@@ -18,7 +18,7 @@
  💬 About me ...<br>
 
 * 🌍  I'm based in Maharashtra
-* 💬  My portfolio is [https://manojgajare123.github.io/]
+* 💬  My portfolio is [https://vinayakpagar23.github.io/]
 * ✉️  You can contact me at [vinayakpagar1999@gmail.com](mailto:vinayakpagar1999@gmail.com)
 * 🧠  I'm learning `MERN Stack Developer`.
 * 🤔  I’m looking for help with `Competitive Programming`
