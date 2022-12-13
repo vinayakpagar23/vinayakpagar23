@@ -19,8 +19,8 @@
 
 * 🌍  I'm based in Maharashtra
 * 💬  My portfolio is [https://manojgajare123.github.io/]
-* ✉️  You can contact me at [manojgajare5@gmail.com](mailto:manojgajare5@gmail.com)
-* 🧠  I'm learning `Full Stack`.
+* ✉️  You can contact me at [vinayakpagar1999@gmail.com](mailto:vinayakpagar1999@gmail.com)
+* 🧠  I'm learning `MERN Stack Developer`.
 * 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
 * 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
