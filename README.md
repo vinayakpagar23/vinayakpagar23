@@ -9,6 +9,9 @@
 <h3 align="center">A self-taught Full Stack web developer with a passion for writing clean and efficient code. With 1-year of experience in building single-page applications using the MERN Stack, I have developed a skill set in creating reusable components and optimizing React application performance. Additionally, I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Material UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects. I am currently seeking a challenging role in a product-based company to further enhance my technical knowledge.
 
 </h3>
+<!-- <p align="center"> <a href="https://github.com/vinayakpagar23/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=vinayakpagar23">
+</a> </p> -->
 <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />  -->
 <!-- <p align="center" ><img width="80%" height="300px" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p> -->
 
