@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Vinayak+Pagar!;Full+Stack+Developer...;" style="width: 100%;">
 
 <h3 align="center"> MERN Developer</h3>
-<h3 align="center">A self-taught Full Stack web developer with a passion for writing clean and efficient code. With 1-year of experience in building single-page applications using the MERN Stack, I have developed a skill set in creating reusable components and optimizing React application performance. Additionally, I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Material UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects. I am currently seeking a challenging role in a product-based company to further enhance my technical knowledge.
+<h3 align="center">A self-taught Full Stack web developer with a passion for writing clean and efficient code. With 4-year of experience in building single-page applications using the MERN Stack, I have developed a skill set in creating reusable components and optimizing React application performance. Additionally, I am proficient in integrating APIs into React applications using Axios and Fetch and utilizing various React tools and libraries such as Redux, React Router, and Material UI. As someone who is passionate about coding, I am always seeking ways to improve my skills and apply them to real-world projects. I am currently seeking a challenging role in a product-based company to further enhance my technical knowledge.
 
 </h3>
 <!-- <p align="center"> <a href="https://github.com/vinayakpagar23/github-profile-views-counter">
@@ -22,8 +22,8 @@
  💬 About me ...<br>
 
 * 🌍  I'm based in Maharashtra
-* 💬  My portfolio is [https://vinayakpagar23.github.io/]
-* ✉️  You can contact me at [vinayakpagar1999@gmail.com](mailto:vinayakpagar1999@gmail.com)
+* 💬  My portfolio is [https://vinayak-pagar-portfolio.netlify.app/]
+* ✉️  You can contact me at [vinayakpagar01@gmail.com](mailto:vinayakpagar01@gmail.com)
 * 🧠  I'm learning `MERN Stack Developer`.
 * 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
@@ -75,7 +75,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakpagar23&theme=react" alt="Manoj Gajare" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakpagar23&theme=react" alt="Vinayak Pagar" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vinayakpagar23&show_icons=true&theme=react" height="255px" width="47%"/>
 <div>
   </br>
